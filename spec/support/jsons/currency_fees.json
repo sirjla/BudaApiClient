@@ -1,0 +1,10 @@
+{
+    "fee": {
+        "name": "withdrawal",
+        "percent": 0,
+        "base": [
+            "0.00011",
+            "BTC"
+        ]
+    }
+}

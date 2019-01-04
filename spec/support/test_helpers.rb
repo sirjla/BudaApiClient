@@ -1,5 +1,7 @@
+require "json"
+
 module TestHelpers
-  def helper_example
-    puts "Add your custom helpers here: #{File.dirname(__FILE__)}"
+  def parse_json(file_name)
+    JSON.parse(File.read(file_name))
   end
 end

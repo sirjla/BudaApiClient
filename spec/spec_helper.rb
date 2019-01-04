@@ -5,7 +5,7 @@ formatters = [SimpleCov::Formatter::HTMLFormatter, Coveralls::SimpleCov::Formatt
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter::new(formatters)
 
 SimpleCov.start do
-  add_filter { |src| !(src.filename =~ /lib/) }
+  add_filter { |src| (src.filename !~ /lib/) }
   add_filter "spec.rb"
 end
 

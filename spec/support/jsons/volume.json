@@ -1,0 +1,21 @@
+{
+    "volume": {
+        "market_id": "BTC-CLP",
+        "bid_volume_24h": [
+            "14.04683646",
+            "BTC"
+        ],
+        "ask_volume_24h": [
+            "24.49590408",
+            "BTC"
+        ],
+        "bid_volume_7d": [
+            "58.77687438",
+            "BTC"
+        ],
+        "ask_volume_7d": [
+            "87.26317008",
+            "BTC"
+        ]
+    }
+}

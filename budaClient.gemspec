@@ -1,4 +1,5 @@
 # coding: utf-8
+
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "budaClient/version"
@@ -24,4 +25,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "guard-rspec", "~> 4.7"
   spec.add_development_dependency "pry"
   spec.add_development_dependency "coveralls"
+  spec.add_development_dependency "rubocop", "~> 0.49"
+  spec.add_development_dependency "json"
+
+  spec.add_runtime_dependency 'http', '~> 3.3.0'
 end

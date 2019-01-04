@@ -1,0 +1,194 @@
+{
+    "markets": [
+        {
+            "id": "BTC-CLP",
+            "name": "btc-clp",
+            "base_currency": "BTC",
+            "quote_currency": "CLP",
+            "minimum_order_amount": [
+                "0.00000004",
+                "BTC"
+            ]
+        },
+        {
+            "id": "BTC-COP",
+            "name": "btc-cop",
+            "base_currency": "BTC",
+            "quote_currency": "COP",
+            "minimum_order_amount": [
+                "0.00000004",
+                "BTC"
+            ]
+        },
+        {
+            "id": "ETH-CLP",
+            "name": "eth-clp",
+            "base_currency": "ETH",
+            "quote_currency": "CLP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "ETH"
+            ]
+        },
+        {
+            "id": "ETH-BTC",
+            "name": "eth-btc",
+            "base_currency": "ETH",
+            "quote_currency": "BTC",
+            "minimum_order_amount": [
+                "0.00000001",
+                "ETH"
+            ]
+        },
+        {
+            "id": "BTC-PEN",
+            "name": "btc-pen",
+            "base_currency": "BTC",
+            "quote_currency": "PEN",
+            "minimum_order_amount": [
+                "0.00000004",
+                "BTC"
+            ]
+        },
+        {
+            "id": "ETH-PEN",
+            "name": "eth-pen",
+            "base_currency": "ETH",
+            "quote_currency": "PEN",
+            "minimum_order_amount": [
+                "0.00000001",
+                "ETH"
+            ]
+        },
+        {
+            "id": "ETH-COP",
+            "name": "eth-cop",
+            "base_currency": "ETH",
+            "quote_currency": "COP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "ETH"
+            ]
+        },
+        {
+            "id": "BCH-BTC",
+            "name": "bch-btc",
+            "base_currency": "BCH",
+            "quote_currency": "BTC",
+            "minimum_order_amount": [
+                "0.00000001",
+                "BCH"
+            ]
+        },
+        {
+            "id": "BCH-CLP",
+            "name": "bch-clp",
+            "base_currency": "BCH",
+            "quote_currency": "CLP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "BCH"
+            ]
+        },
+        {
+            "id": "BCH-COP",
+            "name": "bch-cop",
+            "base_currency": "BCH",
+            "quote_currency": "COP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "BCH"
+            ]
+        },
+        {
+            "id": "BCH-PEN",
+            "name": "bch-pen",
+            "base_currency": "BCH",
+            "quote_currency": "PEN",
+            "minimum_order_amount": [
+                "0.00000001",
+                "BCH"
+            ]
+        },
+        {
+            "id": "BTC-ARS",
+            "name": "btc-ars",
+            "base_currency": "BTC",
+            "quote_currency": "ARS",
+            "minimum_order_amount": [
+                "0.00000004",
+                "BTC"
+            ]
+        },
+        {
+            "id": "ETH-ARS",
+            "name": "eth-ars",
+            "base_currency": "ETH",
+            "quote_currency": "ARS",
+            "minimum_order_amount": [
+                "0.00000001",
+                "ETH"
+            ]
+        },
+        {
+            "id": "BCH-ARS",
+            "name": "bch-ars",
+            "base_currency": "BCH",
+            "quote_currency": "ARS",
+            "minimum_order_amount": [
+                "0.00000001",
+                "BCH"
+            ]
+        },
+        {
+            "id": "LTC-BTC",
+            "name": "ltc-btc",
+            "base_currency": "LTC",
+            "quote_currency": "BTC",
+            "minimum_order_amount": [
+                "0.00000001",
+                "LTC"
+            ]
+        },
+        {
+            "id": "LTC-CLP",
+            "name": "ltc-clp",
+            "base_currency": "LTC",
+            "quote_currency": "CLP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "LTC"
+            ]
+        },
+        {
+            "id": "LTC-COP",
+            "name": "ltc-cop",
+            "base_currency": "LTC",
+            "quote_currency": "COP",
+            "minimum_order_amount": [
+                "0.00000001",
+                "LTC"
+            ]
+        },
+        {
+            "id": "LTC-PEN",
+            "name": "ltc-pen",
+            "base_currency": "LTC",
+            "quote_currency": "PEN",
+            "minimum_order_amount": [
+                "0.00000001",
+                "LTC"
+            ]
+        },
+        {
+            "id": "LTC-ARS",
+            "name": "ltc-ars",
+            "base_currency": "LTC",
+            "quote_currency": "ARS",
+            "minimum_order_amount": [
+                "0.00000001",
+                "LTC"
+            ]
+        }
+    ]
+}
