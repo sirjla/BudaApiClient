@@ -64,4 +64,8 @@ describe BudaClient do
       ).to eq(api_return)
     end
   end
+
+  describe BudaClient::Private do
+
+  end
 end

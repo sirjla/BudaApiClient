@@ -60,4 +60,7 @@ module BudaClient
       get(@currency_fees_url, currency: currency, transaction_type: transaction_type)
     end
   end
+  class Private
+
+  end
 end
